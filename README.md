@@ -30,6 +30,6 @@ Likewise, users submit Show `HN` posts to show the Hacker News community a proje
 
 The final aim is to answer the following questions based on solid analytical proofs:
 ```
-- Do Ask HN or Show HN receive more comments on average?
-- Do posts created at a certain time receive more comments on average?
+- Which of the two categories of posts i.e., `Ask HN` and `Show HN` receives more comments on average?
+- Does `Time of Posting` impact the number of comments a post receives?
 ```
