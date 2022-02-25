@@ -1,4 +1,4 @@
-# Exploring-Hacker-News-Posts
+# Exploring Hacker News Posts
 
 In this project, we worked with a dataset of submissions to popular technology site Hacker News. 
 
@@ -13,14 +13,14 @@ You can find the data set [here](https://www.kaggle.com/hacker-news/hacker-news-
 - `author`: the username of the person who submitted the post
 - `created_at`: the date and time of the post's submission
 
-We're specifically interested in posts with titles that begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question. Below are a few examples:
+We're specifically interested in posts with titles that begin with either `Ask HN` or `Show HN`. Users submit `Ask HN` posts to ask the Hacker News community a specific question. Below are a few examples:
 
 ```
   Ask HN: How to improve my personal website?
   Ask HN: Am I the only one outraged by Twitter shutting down share counts?
   Ask HN: Aby recent changes to CSS that broke mobile?
 ```
-Likewise, users submit Show HN posts to show the Hacker News community a project, product, or just something interesting. Below are a few examples:
+Likewise, users submit Show `HN` posts to show the Hacker News community a project, product, or just something interesting. Below are a few examples:
 
 ```
   Show HN: Wio Link  ESP8266 Based Web of Things Hardware Development Platform'
