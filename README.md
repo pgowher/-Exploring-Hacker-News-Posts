@@ -14,8 +14,22 @@ You can find the data set [here](https://www.kaggle.com/hacker-news/hacker-news-
 - `created_at`: the date and time of the post's submission
 
 We're specifically interested in posts with titles that begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question. Below are a few examples:
+
 ```
   Ask HN: How to improve my personal website?
   Ask HN: Am I the only one outraged by Twitter shutting down share counts?
   Ask HN: Aby recent changes to CSS that broke mobile?
+```
+Likewise, users submit Show HN posts to show the Hacker News community a project, product, or just something interesting. Below are a few examples:
+
+```
+  Show HN: Wio Link  ESP8266 Based Web of Things Hardware Development Platform'
+  Show HN: Something pointless I made
+  Show HN: Shanhu.io, a programming playground powered by e8vm
+```
+
+The final aim is to answer the following questions based on solid analytical proofs:
+```
+- Do Ask HN or Show HN receive more comments on average?
+- Do posts created at a certain time receive more comments on average?
 ```
